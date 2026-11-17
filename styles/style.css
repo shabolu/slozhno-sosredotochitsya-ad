@@ -383,12 +383,6 @@
     width: 50%;
     max-width: 364px;
   }
-
-  .header__theme-menu {
-    align-self: start;
-    justify-self: end;
-    margin-block-start: 0;
-  }
 }
 
 @media (max-width: 767px) {
@@ -409,12 +403,7 @@
     left: 10px;
     inline-size: calc(100% - 20px);
   }
-  .header__theme-menu {
-    right: 10px;
-  }
-}
 
-@media (max-width: 767px) {
   .gallery-section {
     gap: 10px;
   }
